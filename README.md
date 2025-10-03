@@ -3,6 +3,9 @@ My name is Lautaro Nuccitelli
 * I'm based in Argentina  
 * You can contact me at [nuccitellilautaro@gmail.com](mailto:nuccitellilautaro@gmail.com)  
 
+![-](<img width="500" height="357" alt="image" src="https://github.com/user-attachments/assets/1ace11e2-b395-4a86-ac89-420db1a7c72c" />)
+
+
 ### Skills
 
 <p align="left">
