@@ -1,11 +1,7 @@
-Hi 👋 My name is Lautaro Nuccitelli
-===================================
+My name is Lautaro Nuccitelli
 
-A passionate software developer with experience in C#, Java, javascript and Git. Focused on creating efficient solutions and always eager to improve my skills.
-
-* 🌍  I'm based in Argentina  
-* ✉️  You can contact me at [nuccitellilautaro@gmail.com](mailto:nuccitellilautaro@gmail.com)  
-* 🧠  I'm learning Java.
+* I'm based in Argentina  
+* You can contact me at [nuccitellilautaro@gmail.com](mailto:nuccitellilautaro@gmail.com)  
 
 ### Skills
 
